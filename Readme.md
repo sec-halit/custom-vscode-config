@@ -2,6 +2,8 @@
 
 >  [FireCode Font](https://fonts.google.com/specimen/Fira+Code)
 
+<link rel="stylesheet" href="css/firecode.css" />
+
 <span style="color: #f2cf4a; font-family: Fira Code Medium, monospace; font-size: 2em;"> => </span>
 <span style="color: #f2cf4a; font-family: Fira Code Medium, monospace; font-size: 2em;"> !== </span>
 <span style="color: #f2cf4a; font-family: Fira Code Medium, monospace; font-size: 2em;"> != </span>
